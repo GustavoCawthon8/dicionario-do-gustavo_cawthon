@@ -1,0 +1,140 @@
+body{
+  background-image: url(fundo.png) ;
+}
+
+#titulo{
+  color: blue;
+  position:absolute;
+  
+  bottom:545px;
+  left: 100px;
+  
+}
+#fundo_titulo{
+  background-color: deepskyblue ;
+  font-size:40px;
+  color: deepskyblue;
+  
+  border-radius: 30px 0px 30px 0px;
+}
+
+#sub_titulo{
+  color: white;
+  position: absolute;
+  left: 95px;
+  bottom: 515px;
+}
+#selo{
+  position: absolute;
+  bottom: 560px;
+  font-size: 20px;
+  width: 20px;
+}
+#sobre{
+  color: dodgerblue;
+  position: absolute;
+  bottom: 380px;
+  
+  border: 3px solid aliceblue;
+  background-color: blue ;
+  border-radius: 00 30px 0px 0px;
+}
+
+#sobreText{
+  
+
+background-color: BLUE;
+  position: absolute;
+  bottom: 200px;
+}
+
+#setup{
+  position: absolute;
+  width: 340px;
+  height: 200px;
+  bottom: -70px;
+  
+  border: 4px solid mediumblue;
+}
+
+#titulo_setup{
+  position: absolute;
+  bottom: 119px;
+  color:red;
+  background-color: deepskyblue;
+  border: 3px solid white;
+  border-radius: 0px 0px 10px 10px;
+}
+
+#sobreSetup{
+  position: absolute;
+  bottom: -300px;
+  background-color: red;
+  color: white;
+}
+
+#comunidade{
+  background-color: deepskyblue ;
+  position: absolute ;
+  bottom: -400px;
+  width: 350px;
+  
+  border: 3px solid BLUE ;
+  border-radius: 0px 100px 100px 0px;
+}
+
+#cm{
+  position: absolute;
+  bottom: -350px;
+  color: BLUE ;
+  background-color: skyblue;
+  border: 3px solid BLUE ;
+}
+
+#cawthon{
+  position: absolute;
+  bottom: -700px;
+  background-color: blue;
+  color: white;
+}
+
+#inspira{
+  position: absolute;
+  bottom: -520px;
+  color: white;
+  border: 4px solid blue ;
+  left: 115px;
+  border-radius: 10px 10px 0px 0px;
+  
+}
+
+#fundo_azul{
+  position: absolute;
+  bottom: -800px;
+  background-color: blue;
+  
+  width: 350px;
+  height: 100px;
+}
+
+#caw{
+  width: 120px;
+  height: 120px;
+  position: absolute;
+  bottom: -800px;
+  left: 150px;
+  text-shadow: black;
+  border: 4px solid lightskyblue;
+}
+
+#ins{
+  position: absolute;
+  background: linear-gradient(to right, red, blue);
+  bottom: -1043px;
+}
+
+#programa{
+  position: absolute;
+  bottom: -1522px;
+  background-color: white;
+}
